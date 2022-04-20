@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://deta.sh" target="_blank">
-        <img src="deta_logo_dark.svg" width="400">
+        <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta_logo_dark.svg" width="400">
     </a>
 </p>
 
