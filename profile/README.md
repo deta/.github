@@ -19,4 +19,5 @@ Deta is accessible, lightweight, and scalable.
 We have answered some [FAQs](https://docs.deta.sh/docs/faqs) in our [docs](https://docs.deta.sh/), but we are here to help and would love to hear what you think!
 - Code Questions: [GitHub Discussions](https://github.com/orgs/deta/discussions)
 - Chat: [Discord](https://discord.gg/K3gYNqHXUU)
+- Shenanigans: [Twitter](https://twitter.com/detahq)
 - Emails (no support): `team@deta.sh`
