@@ -13,3 +13,5 @@ We are here to help and would love to hear what you think!
 - Chat: [Discord](https://discord.gg/K3gYNqHXUU)
 - Shenanigans: [Twitter](https://twitter.com/detahq)
 - Emails (no support): `team@deta.space`
+
+P.S. make sure to [smash the star button](https://github.com/deta/deta)
