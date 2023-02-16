@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://deta.space" target="_blank">
-    <img src="./deta.svg" width="80">
+    <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta.svg" width="80">
 </a>
 
 # Deta Space
