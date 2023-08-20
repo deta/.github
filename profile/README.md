@@ -26,8 +26,7 @@ Deta is building a personal cloud called Deta Space, crafted with the developer 
 
 We have answered some [FAQs](https://deta.space/manual/faq) in our [docs](https://deta.space/manual), but we are here to help and would love to hear what you think!
 
-- Code Questions: [GitHub Discussions](https://github.com/orgs/deta/discussions)
-- Chat: [Discord](https://go.deta.dev/discord)
+- Questions & Help: [Discord](https://go.deta.dev/discord)
 - Shenanigans: [Twitter](https://twitter.com/detahq)
 - Emails (no support): `team@deta.space`
 
