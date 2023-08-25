@@ -6,7 +6,7 @@
 
 # Deta Space
 
-Deta Space is a personal cloud computing platform that enables individuals to turn their ideas into reality using their own personal cloud computer.
+Deta Space enables individuals to turn their ideas into reality using their own personal cloud computer.
 
 [🔮 Homepage](https://deta.space) - [💻 Developer Docs](https://deta.space/docs) - [📚 User Manual](https://deta.space/manual)
 
@@ -30,4 +30,4 @@ We have answered some [FAQs](https://deta.space/manual/faq) in our [docs](https:
 - Shenanigans: [Twitter](https://twitter.com/detahq)
 - Emails (no support): `team@deta.space`
 
-P.S. make sure to [smash the star button](https://github.com/deta/deta)
+P.S. don't forget to [smash the star button](https://github.com/deta/deta) ⭐
