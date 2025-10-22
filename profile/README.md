@@ -8,7 +8,7 @@
 
 We're building [Surf](https://deta.surf).
 
-Surf is a browser, file manager, and AI assistant, all in one that puts you at the center of your digital life.
+Surf is an AI notebook that brings the web and your files directly into your stream of thought.
 
 Learn more on [why we are building Surf](https://deta.surf/motivation).
 
